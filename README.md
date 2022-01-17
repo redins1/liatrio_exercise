@@ -1,1 +1,1 @@
-# liatrio_exercise_terraform
+# liatrio_exercise
